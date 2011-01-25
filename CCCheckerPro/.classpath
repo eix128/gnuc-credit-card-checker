@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.osgi_3.6.1.R36x_v20100806.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.osgi.source_3.6.1.R36x_v20100806.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.equinox.common_3.6.0.v20100503.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.core.commands.source_3.6.0.I20100512-1500.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.equinox.registry_3.5.0.v20100503.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.equinox.registry.source_3.5.0.v20100503.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.core.runtime_3.6.0.v20100505.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.core.runtime.source_3.6.0.v20100505.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.text_3.5.0.v20100601-1300.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.text.source_3.5.0.v20100601-1300.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.swt_3.6.1.v3655c.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.swt.win32.win32.x86.source_3.6.1.v3655c.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.jface_3.6.1.M20100825-0800.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.jface.source_3.6.1.M20100825-0800.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.jface.text_3.6.1.r361_v20100825-0800.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.jface.text.source_3.6.1.r361_v20100825-0800.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.ui.workbench_3.6.1.M20100826-1330.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.ui.workbench.source_3.6.1.M20100826-1330.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/com.ibm.icu_4.2.1.v20100412.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/com.ibm.icu.source_4.2.1.v20100412.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Eclipse Helios x32/plugins/org.eclipse.ui.forms_3.5.2.r36_v20100702.jar" sourcepath="C:/Program Files (x86)/Eclipse32/plugins/org.eclipse.ui.forms.source_3.5.2.r36_v20100702.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/Eclipse Helios 32/CCCheckerPro/lib/commons-io-2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/Eclipse Helios 32/CCCheckerPro/lib/commons-compress-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/Eclipse Helios 32/CCCheckerPro/lib/gnuc.jar"/>
+	<classpathentry kind="lib" path="D:/Workspace/Eclipse Helios 32/CCCheckerPro/lib/tika-app-0.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Workspace/Eclipse Helios 32/CCCheckerPro/lib/swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
